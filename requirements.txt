@@ -1,0 +1,7 @@
+gradio
+numpy
+opencv-python
+mtcnn
+tensorflow
+torch
+torchvision
